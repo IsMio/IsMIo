@@ -56,6 +56,6 @@ Here are some ideas to get you started:
   
 ### 📫 Contact me 
 
- [![Telegram](https://img.shields.io/badge/%40sevtinge-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Akiyama_mio_hi) 
+ [![Telegram](https://img.shields.io/badge/%40Mio-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Akiyama_mio_hi) 
 
  
