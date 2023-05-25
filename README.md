@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 --> 
 
-## Hi there 👋 I'm Mio|IsMio
+## Hi there 👋 I'm Mio | IsMio
 
 <a href="#">
 <img align="center" src="https://stats.deeptrain.net/user/IsMio/" />
