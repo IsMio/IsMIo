@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <img align="center" src="https://stats.deeptrain.net/user/IsMio/" />
 </a>
 
-<a href="#">
+<!--<a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsMio&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
-</a>
+</a>-->
 
 - 🌱 I’m learning backend project
 
